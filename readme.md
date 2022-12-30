@@ -1,3 +1,4 @@
 <h1>Calculadora em React</h1>
-
-<video src="./public/assets/readmeVideo.mp4"></video>
+<a href="https://calculadora-react-khaki.vercel.app/"> Confira aqui </a>
+<hr/>
+<img src="https://media.giphy.com/media/XWzN7e85KJdnIteHRz/giphy.gif">
